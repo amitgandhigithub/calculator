@@ -15,3 +15,5 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+My repo is [![Build Status](https://dev.azure.com/amitajitgandhi/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/amitgandhigithub.calculator?branchName=master)](https://dev.azure.com/amitajitgandhi/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=8&branchName=master)
+
